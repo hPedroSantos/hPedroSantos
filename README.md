@@ -1,6 +1,5 @@
 ###  Hi, eu me chamo Pedro Santos, desevolver de software e também sempre me desenvolvendo 😉
 
-
 - 📚 Atualmente estou cursando Bacharel em Engenharia da Computação
 - 🌱 Tecnologias que utilizo: JavaScript, Express.js, Node.js, Python, HTML e CSS
 - 📧 Encontre-me, email: santos.pedroh26@gmail.com / linkedin: www.linkedin.com/in/pedro-santos262001
