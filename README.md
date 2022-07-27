@@ -1,17 +1,13 @@
-###  Hi, eu me chamo Pedro Santos, desevolver de software e também sempre me desenvolvendo 😉
+## Olá, eu me chamo Pedro Santos, sou desenvolver de software e também sempre me desenvolvendo 😉
 
 - 📚 Atualmente estou cursando Bacharel em Engenharia da Computação
-- 🌱 Tecnologias que utilizo: JavaScript, Express.js, Node.js, Python, HTML e CSS
-- 📧 Encontre-me, email: santos.pedroh26@gmail.com / linkedin: www.linkedin.com/in/pedro-santos262001
+- 🌱 Tecnologias que utilizo e estudo: JavaScript, Express.js, Node.js, Python, HTML e CSS
 
 <div align="center">
   <a href="https://github.com/hPedroSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hPedroSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hPedroSantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-###
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +17,7 @@
   <img align="center" alt="Pedro-ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
 
-###
+  ##
 
 <div>
 <a href="https://www.linkedin.com/in/pedro-santos-606205246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
