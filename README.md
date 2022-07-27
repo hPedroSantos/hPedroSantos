@@ -1,8 +1,4 @@
 ## Olá, eu me chamo Pedro Santos, sou desenvolver de software e também sempre me desenvolvendo 😉
-
-- 📚 Atualmente estou cursando Bacharel em Engenharia da Computação
-- 🌱 Tecnologias que utilizo e estudo: JavaScript, Express.js, Node.js, Python, HTML e CSS
-
 <div align="center">
   <a href="https://github.com/hPedroSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hPedroSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
