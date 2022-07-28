@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro Santos, sou desenvolvedor de software e sempre me desenvolvendo 😉
+## Olá, me chamo Pedro Santos, sou desenvolvedor de software, mas também, sempre estou me desenvolvendo 😉
 <div align="center"  style="display: inline_block">
   <a href="https://github.com/hPedroSantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hPedroSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
