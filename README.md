@@ -1,4 +1,4 @@
-## Olá 👋 Bem vindos!
+## Olá 👋 Sejam Bem vindos!
 
 <div style="display: inline_block"><br>
 
