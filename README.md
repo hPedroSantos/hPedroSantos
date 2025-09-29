@@ -10,7 +10,7 @@
 </div>
 
 <p align="justify"> 
-Sou desenvolvedor DevOps e atualmente atuo com monitoramento e automação no Banestes S/A. Estudante de Engenharia da Computação, sou apaixonado por tecnologia e pelo impacto que ela gera. Tenho 2 anos de experiência em desenvolvimento back-end e em automações com scripting (Python e Bash Shell). Além disso, sou um grande entusiasta da criação de agentes de inteligência artificial e tenho profundo interesse em segurança da informação, áreas que me motivam a aprender e explorar constantemente.
+Sou DevOps e atualmente atuo com monitoramento e automação no Banestes S/A. Estudante de Engenharia da Computação, sou apaixonado por tecnologia e pelo impacto que ela gera. Tenho 2 anos de experiência em desenvolvimento back-end e em automações com scripting (Python e Bash Shell). Além disso, sou um grande entusiasta da criação de agentes de inteligência artificial e tenho profundo interesse em segurança da informação, áreas que me motivam a aprender e explorar constantemente.
 
 Desde criança a tecnologia faz parte da minha vida. A curiosidade em entender o que acontecia por trás dos meus interesses me levou à programação, onde tive meu primeiro contato aos 15 anos. Desde então, mesmo com pausas, mantive o interesse e hoje participo ativamente da área.
 
