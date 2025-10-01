@@ -21,6 +21,8 @@ Além da tecnologia, tenho grande interesse por psicologia e química, áreas qu
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:santos.pedroh26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedrosantosh/))
+<i class="devicon-amazonwebservices-plain-wordmark"></i>
+          
 
 
 <h3 align="left">GitHub Status</h3>
