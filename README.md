@@ -43,4 +43,4 @@ Sou Pedro 👋 Estagiário no Banestes S/A, focado em monitoramento e automaçã
 
 ### 📊 LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hpedrossantos)](https://leetcode.com/mhmdio)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hpedrossantos)](https://leetcode.com/u/hpedrossantos/)
