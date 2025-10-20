@@ -1,8 +1,8 @@
 ## Pedro Santos - Cloud/DevOps Júnior
 
-Sou Pedro 👋 Estagiário no Banestes S/A, focado em monitoramento e automação. Estudante de Engenharia da Computação, conheci a programação aos 15 anos e desde então venho explorando tecnologia. Atualmente, possuo um bom conhecimento em IA e segurança da informação, com 2 anos de experiência em back-end, automações e integrações utilizando Python e Bash.
+Sou Pedro 👋 Estagiário no Banestes S/A, focado em monitoramento e automação. Estudante de Engenharia da Computação, conheci a programação aos 15 anos e desde então venho explorando tecnologia. Atualmente, possuo um bom conhecimento em IA e segurança da informação, com 2 anos de experiência em back-end, automações e integrações utilizando Python e Bash. Além de tecnologia e codificar minhas ideas, gosto de dedicar meu tempo livre à psicologia e à filosofia política.
 
-Além de tecnologia, tenho interesse por psicologia e filosofia, e gosto de colocar minhas ideias em prática por meio do código.
+"A ciência da computação não é sobre computadores, assim como a astronomia não é sobre telescópios." — Edsger W. Dijkstra
 
 ### 🔧 Tecnologias
 
