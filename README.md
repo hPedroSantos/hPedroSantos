@@ -6,14 +6,14 @@ Sou Pedro 👋 Estagiário no Banestes S/A, focado em monitoramento e automaçã
 
 ### 🔧 Tecnologias
 
-* **Nuvem** : GCP
+* **Nuvem** : GCP, AWS
 * **Containerização** : Docker, Kubernetes
 * **CI/CD** : GitHub Actions
 * **Gerenciamento de Configuração** : Ansible
 * **Infraestrutura como Código (IaC)** : Terraform
 * **Monitoramento** : Zabbix, Grafana, OTel
 * **Scripting** : Bash, Python
-* **Programação** : Typescript, Go
+* **Programação** : Typescript, Python
 * **Controle de Versão** : Git, GitHub
 * **Segurança** : Snyk
 
