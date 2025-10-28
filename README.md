@@ -35,12 +35,15 @@ Sou Pedro 👋 Estagiário no Banestes S/A, focado em monitoramento e automaçã
 
 ### 📊 GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hPedroSantos&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hPedroSantos&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hPedroSantos&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+    </td>
+  </tr>
+</table>
 
-### 📊 RoadMap Stats
 
-[![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/68f65b2517747caa5a23c841?variant=dark)](https://roadmap.sh/u/hpedrosantos)
-
-### 📊 LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hpedrossantos)](https://leetcode.com/u/hpedrossantos/)
