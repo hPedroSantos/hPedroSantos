@@ -1,6 +1,6 @@
-## Pedro Santos - Cloud/DevOps
+## Pedro Santos - Cloud/DevOps 👋
 
-Sou Pedro 👋 Estagiário no Banestes S/A, focado em monitoramento e automação. Estudante de Engenharia da Computação, conheci a programação aos 15 anos e desde então venho explorando tecnologia. Atualmente, possuo um bom conhecimento em IA e segurança da informação, com 2 anos de experiência em back-end, automações e integrações utilizando Python e Bash. Além de tecnologia e codificar minhas ideas, gosto de dedicar meu tempo livre à psicologia e à filosofia política.
+Graduando em Engenharia da Computação e Desenvolvedor de Software, atualmente atuo como Estagiário no Banestes S/A, focado em monitoramento e automação de sistemas distribuídos. Ao longo de 3 anos de experiência prática, venho desenvolvendo aplicações e automações, implementando princípios de observabilidade e monitoramento. Além da dedicação em tecnologia e desenvolvimento de software, dedico meu tempo livre ao estudo de psicologia e filosofia política 📚
 
 "A ciência da computação não é sobre computadores, assim como a astronomia não é sobre telescópios." — Edsger W. Dijkstra
 
